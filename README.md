@@ -36,6 +36,8 @@
 #### Spectator List
 - you can see who is watching you and watching your every move.
 
+<br/>
+
 #### Lobby
 - Two message lines which are customizable (You can make it a Hint displayed on each Player or a Broadcast, it also works with Unity's Rich Text tags, you can also disable the message and just let users do what they want)
 - You can adjust the vertical position of the message lines when they are displayed! (Hints only)
