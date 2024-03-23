@@ -34,6 +34,8 @@
 
 ## <img src="https://media.discordapp.net/attachments/1216615245527912468/1220009884494467122/852881450667081728.gif?ex=660d61bf&is=65faecbf&hm=3988eee1263768b5c718ee9a1431ebfe83543e9efe798ba39682fe5753907992&=" width="20px" height="20px">》Features
 #### Spectator List
+- you can see who is watching you and watching your every move.
+
 #### Lobby
 - Two message lines which are customizable (You can make it a Hint displayed on each Player or a Broadcast, it also works with Unity's Rich Text tags, you can also disable the message and just let users do what they want)
 - You can adjust the vertical position of the message lines when they are displayed! (Hints only)
