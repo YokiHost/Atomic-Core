@@ -1,18 +1,19 @@
 <br />
 <p align="center">
-  <a href="https://github.com/YokiHost/WaitAndChillReborn/">
+  <a href="https://github.com/YokiHost/Atomic-Core/">
     <img src="https://media.discordapp.net/attachments/1162368760754208882/1195976754217635961/logo.png?ex=660901a6&is=65f68ca6&hm=d7a9d7ebe95525f633b3411ad66cf21b0fe34149312f448c9f12849d92007122&=&format=webp&quality=lossless&width=468&height=468" alt="Pbot-plus" width="200" height="200">
   </a>
 
-  <h3 align="center">WaitAndChillReborn</h3>
+  <h3 align="center">Atomic-Core</h3>
 
   <p align="center">
-    A plugin that adds a lobby when waiting for players
+    A plugin that adds a lobby when waiting for players and also adds an in-game viewer list.
+    You can see who is watching you and watching your every move.
     <br />
     <br />
-    <a href="https://github.com/YokiHost/WaitAndChillReborn/issues">Report Bug</a>
+    <a href="https://github.com/YokiHost/Atomic-Core/issues">Report Bug</a>
     ·
-    <a href="https://github.com/YokiHost/WaitAndChillReborn/issues">Request Feature</a>
+    <a href="https://github.com/YokiHost/Atomic-Core/issues">Request Feature</a>
 
   </p>
 </p>
@@ -55,11 +56,11 @@
 
 ## Star History
 
-<a href="https://star-history.com/#YokiHost/WaitAndChillReborn&Date">
+<a href="https://star-history.com/#YokiHost/Atomic-Core&Date">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=YokiHost/WaitAndChillReborn&type=Date&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=YokiHost/WaitAndChillReborn&type=Date" />
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=YokiHost/WaitAndChillReborn&type=Date" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=YokiHost/Atomic-Core&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=YokiHost/Atomic-Core&type=Date" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=YokiHost/Atomic-Core&type=Date" />
   </picture>
 </a>
 
@@ -67,4 +68,4 @@
 <br/>
 
 ## <img src="https://media.discordapp.net/attachments/1216615245527912468/1220014590474059796/859424401186095114.png?ex=660d6621&is=65faf121&hm=256abc8051ea1c66449f657dead9a3c7d9f1d558bb01956f7ac14215258c79c4&=&format=webp&quality=lossless" width="20px" height="20px">》Info / Credit
-[Credit](https://github.com/YokiHost/WaitAndChillReborn/blob/main/Credit.md) - [Info](https://github.com/YokiHost/WaitAndChillReborn/blob/main/info.md) 
+[Credit](https://github.com/YokiHost/Atomic-Core/blob/main/Credit.md) - [Info](https://github.com/YokiHost/Atomic-Core/blob/main/info.md) 
